@@ -24,8 +24,7 @@ This readme details the setup of Kali Linux virtual machine running on Oracle Vi
 
 # After Installation 
 
-Go to terminal and write sudo apt update && sudo apt full-upgrade -y
+Go to terminal and write sudo apt update & sudo apt full-upgrade -y
 
 ## IMPORTANT
-
-# THIS SETUP IS STRICTLY FOR AUTHORIZED TESTING AND EDUCATIONAL LABS ONLY. PRACTICE TOOLS ON AN INTERNAL / HOST ONLY NETWORK NOT ON A BRIDGED INTERNET CONNECTION #
+This setup is strictly for authorized testing and educational labs only. Practice tools on an internal / host only network not on a bridged internet connection
